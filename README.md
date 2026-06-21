@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Vivek Dubey 👋
 
-<!--
-**itsokvivek/itsokvivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with experience in enterprise business applications, ERP solutions and database-driven systems.
 
-Here are some ideas to get you started:
+My work focuses on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java Application Development
+- Enterprise Software Solutions
+- SAP Business One
+- SQL Server Development
+- Business Process Automation
+- REST APIs and Backend Systems
+
+Currently working on business-focused software products and continuously expanding expertise in modern application architecture.
+
+## Professional Experience
+
+Over the years I have worked across:
+
+- Enterprise Software Development
+- SAP Business One Implementations
+- ERP Customization and Integrations
+- SQL Server Reporting Solutions
+- Business Process Automation
+- Backend Application Development using Java
